@@ -1,0 +1,6 @@
+node_modules
+public/
+angularjs-frontend/.tmp
+.idea
+.env
+runtime.log
